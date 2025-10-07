@@ -1,0 +1,28 @@
+.font{
+  font-family: sans-serif;
+}
+.color{
+  background-color: #182438;
+}
+.inner{
+      background: rgba(30, 30, 60, 0.9); /* Dark semi-transparent background */
+      margin: auto;
+      margin-top: 25px;
+      border-radius: 15px;
+      max-width: 900px;
+      width: 100%;
+      min-height: 500px;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.color{
+  color:#ccc
+}
+
+.fontbg{
+  background-color: #39394e;
+}
+.color1{
+  background-color: #2b7fff;
+}

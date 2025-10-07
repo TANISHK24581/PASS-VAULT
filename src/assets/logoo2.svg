@@ -1,0 +1,11 @@
+<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Text: PassVault -->
+  <text x="0" y="40" font-family="Poppins, sans-serif" font-size="36" font-weight="bold" fill="white">
+    PassVault
+  </text>
+
+  <!-- Tagline -->
+  <text x="0" y="70" font-family="Poppins, sans-serif" font-size="16" font-weight="medium" fill="white">
+    SECURE. SIMPLE. SMART.
+  </text>
+</svg>
